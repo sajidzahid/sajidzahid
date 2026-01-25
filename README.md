@@ -78,8 +78,8 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: **sajyd.zahid@gmail.com**
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 🌍 Portfolio: Coming soon
+- 💼 LinkedIn: (linkedin.com/in/muhammad-sajid-73929b17)
+- 🌍 Portfolio: www.acctechglobal.com
 
 ---
 
