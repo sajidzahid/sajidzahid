@@ -1,6 +1,3 @@
-sajidzahid/sajidzahid is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Sajid%20Zahid&fontSize=40&fontColor=ffffff" />
 </p>
