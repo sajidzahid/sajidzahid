@@ -61,17 +61,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajidzahid&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidzahid&theme=github_dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sajidzahid&theme=tokyonight" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajidzahid&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidzahid&layout=compact&theme=tokyonight" />
-</p>
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajidzahid&theme=github_dark)
 
 ---
 
